@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 A student ...
+- 🌱 Learning PHP Java Python now ...
+- 👯 Want to learn Red Team technology ...
+- 📫 Blog: https://xiaopan233.club/
+
+https://github-readme-stats.vercel.app/api?username=gruvbox&show_icons=true&theme=radical
+
 <!--
 **xiaopan233/xiaopan233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
