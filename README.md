@@ -6,7 +6,9 @@
 - 👯 Want to learn Red Team technology ...
 - 📫 Blog: https://xiaopan233.club/
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaopan233&show_icons=true&theme=radical" width=100%/>
+<img src="https://github-readme-stats.vercel.app/api?username=xiaopan233&show_icons=true&theme=radical" width=60%/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaopan233&show_icons=true&theme=radical" width=40%/>
 
 
 <!--
