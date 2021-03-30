@@ -7,8 +7,8 @@
 - 📫 Blog: https://xiaopan233.club/
 
 <p float="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaopan233&show_icons=true&theme=radical" width=58%/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaopan233&show_icons=true&layout=compact&theme=radical" width=38%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaopan233&show_icons=true&theme=radical" width=55%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaopan233&show_icons=true&layout=compact&theme=radical" width=45%/>
 </p>
 
 
